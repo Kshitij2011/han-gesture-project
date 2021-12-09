@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+
+
+
+#hand{
+  width:100px;
+  height:100px;
+}
+
+.snap{
+  text-align:center;
+  margin-left:320px;
+}
+
+#camera{
+  border: 7px solid darkgreen;
+  height:350px;
+  width:400px;
+  box-shadow:20px 20px 18px darkturquoise}
